@@ -7,3 +7,4 @@ xgboost
 joblib
 matplotlib
 seaborn
+pillow==10.4.0
